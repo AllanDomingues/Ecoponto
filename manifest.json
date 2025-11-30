@@ -1,0 +1,22 @@
+{
+    "name": "EcoPonto - Descarte Consciente",
+    "short_name": "EcoPonto",
+    "description": "Localizador de pontos de descarte consciente, alinhado ao ODS 12.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f5f5f5",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "/assets/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
