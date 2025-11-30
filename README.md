@@ -1,7 +1,7 @@
 # EcoPonto - Localizador de Descarte Consciente 🌱
 
 Aluno: Allan Gbariel Silva Domingues
-RA: 72401310
+- RA: 72401310
 
 ## 1. Descrição do Problema
 O descarte incorreto de resíduos especiais, como lixo eletrônico (pilhas, baterias, celulares antigos) e óleo de cozinha, causa danos irreversíveis ao solo e à água. A população muitas vezes deseja descartar corretamente, mas desconhece os pontos de coleta disponíveis em sua região, resultando no envio desses materiais para aterros comuns.
