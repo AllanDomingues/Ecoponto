@@ -1,5 +1,7 @@
 # EcoPonto - Localizador de Descarte Consciente 🌱
 
+Aluno: Allan Gbariel Silva Domingues
+
 ## 1. Descrição do Problema
 O descarte incorreto de resíduos especiais, como lixo eletrônico (pilhas, baterias, celulares antigos) e óleo de cozinha, causa danos irreversíveis ao solo e à água. A população muitas vezes deseja descartar corretamente, mas desconhece os pontos de coleta disponíveis em sua região, resultando no envio desses materiais para aterros comuns.
 
@@ -27,7 +29,7 @@ A solução integra tecnologia e sustentabilidade, facilitando o acesso à infor
 * **Conexão:** Necessária internet para carregar o mapa (modo offline disponível para lista de locais salvos).
 
 ## 7. Instalação e Uso
-1.  Acesse o link da aplicação (ex: `https://seu-usuario.github.io/ecoponto`).
+1.  Acesse o link da aplicação (ex: `https://github.com/AllanDomingues/Ecoponto.git`).
 2.  No Android: Clique em "Adicionar à Tela Inicial".
 3.  No iOS: No Safari, toque em Compartilhar > "Adicionar à Tela de Início".
 4.  Navegue pelo mapa ou pela lista para encontrar o ponto de coleta mais próximo.
